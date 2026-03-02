@@ -2,7 +2,7 @@
 ### Systematic Investigation & Decision Operations (SiDO)
 #### A Content Moderation Intelligence Architecture
 
-> **Live demo →** *https://zhildjian88.github.io/sido-governance-arch/sido-governance-arch.html*
+> **Live demo →** *https://zhildjian88.github.io/sido-governance-arch/*
 
 ---
 
